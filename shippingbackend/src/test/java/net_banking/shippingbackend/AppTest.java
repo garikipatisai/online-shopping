@@ -1,4 +1,4 @@
-package net_banking.shoppingbackend;
+package net_banking.shippingbackend;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package net_banking.shoppingbackend;
+package net_banking.shippingbackend;
 
 /**
  * Hello world!
